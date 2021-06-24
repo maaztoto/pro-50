@@ -1,0 +1,29 @@
+.header{
+    background-color: blue;
+        display: flex;
+        width: 50%;
+        justify-content: center;
+        border:2px solid;
+       font-style: italic;
+       
+}
+        body{
+         background-color: #808080;
+         
+
+        }
+        
+    
+    
+    
+    
+    .footer{
+        background-color: aqua;
+        display: flex;
+        width: 50%;
+        justify-content: center;
+        border:2px solid;
+        font-style: oblique;
+        color: blue;
+        font-size: medium;
+    }
